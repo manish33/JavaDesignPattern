@@ -2,34 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aae1dae-76ca-4729-9d8f-2c7820b75b46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Adapter/AdapterParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Adapter/NewParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Adapter/OldParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Adapter/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Adapter/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentGateways/CitiGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentGateways/Gateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentGateways/HSBCGateWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentMethods/CardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentMethods/NetBanking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentMethods/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/Clinet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/DiscJockey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/SongComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/SongGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/CompressionDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/DataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/DataSourceDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/EncryptionDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/FileDataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Facade/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Facade/Facade/HelperFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Facade/Helper/MySqlHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Facade/Helper/OracleHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Divison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/SubStraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Iterator/IteratorContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Iterator/NameRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Mediator/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Mediator/ChatUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Mediator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Mediator/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Momento/CareTaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Momento/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Momento/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Momento/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Observer/Clinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Observer/StockGrabber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Observer/StockObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/CantFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/Flys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/ItFlys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/LockedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/PlayingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/ReadyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/GlassHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/HouseTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/WoodenHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/ApplyonMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/GetUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/GetUserInfo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Proxy/ProxyPatternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/SongGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/SongGroup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +99,8 @@
       <recent name="CreationalDesignPattern.AbstractFactory.Problem" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Behavioral.ChainOfResponsibility" />
+      <recent name="CustomAnnotation" />
       <recent name="CreationalDesignPattern.AbstractFactory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -83,11 +113,37 @@
   </component>
   <component name="RunManager" selected="Application.Client (1)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralDesignPattern.Decorator.Client" />
+      <option name="MAIN_CLASS_NAME" value="Behavioral.TemplateMethod.Client" />
       <module name="JavaDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StructuralDesignPattern.Decorator.*" />
+          <option name="PATTERN" value="Behavioral.TemplateMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Iterator.Client" />
+      <module name="JavaDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.Iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Mediator.Client" />
+      <module name="JavaDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.Mediator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +152,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralDesignPattern.Bridge.Client" />
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Momento.Client" />
       <module name="JavaDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StructuralDesignPattern.Bridge.*" />
+          <option name="PATTERN" value="Behavioral.Momento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,38 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalDesignPattern.AbstractFactory.Client.Solution" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.State.Demo" />
       <module name="JavaDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalDesignPattern.AbstractFactory.Client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalDesignPattern.ProtoType.Solution" />
-      <module name="JavaDesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CreationalDesignPattern.ProtoType.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralDesignPattern.Adapter.Solution" />
-      <module name="JavaDesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StructuralDesignPattern.Adapter.*" />
+          <option name="PATTERN" value="Behavioral.State.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,10 +206,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -209,14 +239,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="564" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587997358018">
+    <state x="564" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588180222758">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="564" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1587997358018" />
-    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1587996320752">
+    <state x="564" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1588180222758" />
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1588452548156">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1587996320752" />
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1588452548156" />
+    <state x="606" y="417" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588346017497">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="606" y="417" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1588346017497" />
+    <state x="606" y="438" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1588458366918">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="606" y="438" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1680.1050@0.0.1680.1050" timestamp="1588458366917" />
     <state x="602" y="89" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587991088149">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -225,38 +263,38 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="433" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1587999740470" />
-    <state width="1638" height="363" key="GridCell.Tab.0.bottom" timestamp="1587999680733">
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom" timestamp="1588458458047">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587999680733" />
-    <state width="1638" height="363" key="GridCell.Tab.0.center" timestamp="1587999680731">
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588458458047" />
+    <state width="1638" height="266" key="GridCell.Tab.0.center" timestamp="1588458458046">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587999680731" />
-    <state width="1638" height="363" key="GridCell.Tab.0.left" timestamp="1587999680731">
+    <state width="1638" height="266" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588458458046" />
+    <state width="1638" height="266" key="GridCell.Tab.0.left" timestamp="1588458458045">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587999680731" />
-    <state width="1638" height="363" key="GridCell.Tab.0.right" timestamp="1587999680732">
+    <state width="1638" height="266" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588458458045" />
+    <state width="1638" height="266" key="GridCell.Tab.0.right" timestamp="1588458458047">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587999680732" />
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1587999680831">
+    <state width="1638" height="266" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588458458047" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1588005178776">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587999680831" />
-    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1587999680830">
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588005178776" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1588005178775">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587999680830" />
-    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1587999680830">
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588005178775" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1588005178774">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587999680830" />
-    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1587999680831">
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588005178774" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1588005178775">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587999680831" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588005178775" />
     <state x="341" y="164" key="SettingsEditor" timestamp="1587990596154">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -273,6 +311,11 @@
           <url>file://$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/Client.java</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Multiplication.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
