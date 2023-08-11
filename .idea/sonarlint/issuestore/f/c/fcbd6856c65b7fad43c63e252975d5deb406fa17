@@ -1,0 +1,20 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¾—ïó
+[	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(ôĞğé
+E
+java:S3740"/Provide the parametrized type for this generic.(çš‘
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ÒŒ•üÿÿÿÿ
+b
+java:S39731"GUse indentation to denote the code conditionally executed by this "if".(Ê³ùÿÿÿÿ
+Z
+java:S2147'"DCombine this catch with the one at line 37, which has the same body.(Å¡ß
+Z
+java:S2147)"DCombine this catch with the one at line 39, which has the same body.(åşáÿ
+B
+java:S3011",This accessibility update should be removed.(»ˆÊÀ
+K
+java:S1751""5Remove this "break" statement or make it conditional.(›ûä·
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(óÛ””
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Ô¡³Œûÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(õ¡üÈ

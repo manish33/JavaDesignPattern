@@ -1,0 +1,12 @@
+
+g
+java:S1104"QMake width a static final constant or non-public and provide accessors if needed.(øÂ½
+h
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(ñ½
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›»òïıÿÿÿÿ
+f
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ÿô’Ÿ
+i
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(û˜úƒ
+^
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(û˜úƒ

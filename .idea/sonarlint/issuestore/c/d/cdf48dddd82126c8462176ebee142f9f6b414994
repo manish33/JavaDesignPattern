@@ -1,0 +1,13 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ö—¼
+[	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(àÅÌ
+]
+java:S1192 "GDefine a constant instead of duplicating this literal "DELETE" 3 times.(çÁ™È
+e
+java:S1192"JDefine a constant instead of duplicating this literal "Admin@123" 4 times.(Êàƒ•ûÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Êàƒ•ûÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Êàƒ•ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ò´§¯ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(é¶İˆ

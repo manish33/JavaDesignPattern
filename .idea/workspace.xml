@@ -1,63 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2aae1dae-76ca-4729-9d8f-2c7820b75b46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Divison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/SubStraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Iterator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Iterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Iterator/IteratorContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Iterator/NameRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Mediator/ChatRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Mediator/ChatUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Mediator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Mediator/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Momento/CareTaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Momento/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Momento/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Momento/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Observer/Clinet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Observer/StockGrabber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Observer/StockObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/CantFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/Flys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Staretergy/ItFlys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/LockedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/PlayingState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/ReadyState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/State/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/GlassHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/HouseTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/WoodenHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/ApplyonMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/GetUserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/GetUserInfo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/VehicleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Proxy/ProxyPatternExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/SongGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/SongGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/AbstractFactory/Client/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/AbstractFactory/Client/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/BreakSingleTonMultiThreading/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/BreakSingleTonMultiThreading/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/BreakSingleTonReflection/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/BreakSingleTonReflection/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/BreakSinleTonUsingSerialization/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/BreakSinleTonUsingSerialization/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/ProtectAgainstReflection/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/ProtectAgainstReflection/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/ProtectAgainstSerialization/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/ProtectAgainstSerialization/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/SingletonWithMultiThreading/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/SingletonWithMultiThreading/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/SingletonWithoutMultiThreading/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/SingletonWithoutMultiThreading/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/UsingEnum/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/UsingEnum/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/UsingInnerClass/SingleTon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/UsingInnerClass/SingleTon$Helperclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/UsingInnerClass/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/CreationalDesignPattern/Singleton/UsingInnerClass/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/META-INF/JavaDesignPattern.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/ChainOfResponsibility/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/ChainOfResponsibility/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Divison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/ChainOfResponsibility/Divison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/ChainOfResponsibility/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/ChainOfResponsibility/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/SubStraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/ChainOfResponsibility/SubStraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Iterator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Iterator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Iterator/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Iterator/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Iterator/IteratorContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Iterator/IteratorContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Iterator/NameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Iterator/NameRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Mediator/ChatRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Mediator/ChatRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Mediator/ChatUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Mediator/ChatUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Mediator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Mediator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Mediator/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Mediator/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Mediator/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Mediator/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Momento/CareTaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Momento/CareTaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Momento/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Momento/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Momento/Memento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Momento/Memento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Momento/Originator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Momento/Originator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/Clinet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Observer/Clinet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/StockGrabber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Observer/StockGrabber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/StockObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Observer/StockObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Staretergy/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Staretergy/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Staretergy/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Staretergy/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Staretergy/CantFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Staretergy/CantFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Staretergy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Staretergy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Staretergy/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Staretergy/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Staretergy/Flys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Staretergy/Flys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Staretergy/ItFlys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/Staretergy/ItFlys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/State/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/State/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/State/LockedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/State/LockedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/State/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/State/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/State/PlayingState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/State/PlayingState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/State/ReadyState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/State/ReadyState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/State/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/State/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/State/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/State/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/TemplateMethod/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/GlassHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/TemplateMethod/GlassHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/HouseTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/TemplateMethod/HouseTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/TemplateMethod/WoodenHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Behavioral/TemplateMethod/WoodenHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Client/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactory/Client/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Factories/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactory/Factories/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Factories/MacFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactory/Factories/MacFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Factories/WindowsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactory/Factories/WindowsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Products/HardWare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactory/Products/HardWare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Products/MacHardware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactory/Products/MacHardware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Products/MacOs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactory/Products/MacOs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Products/OperatingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactory/Products/OperatingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Products/WindowsHardware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactory/Products/WindowsHardware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Products/WindowsOs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactory/Products/WindowsOs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Problem/BatchProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/BatchProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Problem/CsvParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/CsvParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Problem/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Problem/Records.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/Records.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Problem/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Problem/TextParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/TextParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Solution/BatchProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/BatchProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Solution/CsvBatchProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/CsvBatchProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Solution/CsvParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/CsvParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Solution/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Solution/Records.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/Records.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Solution/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Solution/TextBatchProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/TextBatchProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactoryMethod/Solution/TextParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/TextParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Builder/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Builder/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Builder/CarBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Builder/CarManualBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Builder/CarManualBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Client/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Client/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Director/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Director/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Products/Car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Products/Car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Products/Manual/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Products/Manual/Manual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Products/Parts/GPSNavigator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/GPSNavigator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Transmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Products/Parts/TripComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/TripComputer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/SimpleExample/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/SimpleExample/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Builder/SimpleExample/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Builder/SimpleExample/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/ApplyonMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/CustomAnnotation/ApplyonMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/CustomAnnotation/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/GetUserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/CustomAnnotation/GetUserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/CustomAnnotation/GetUserInfo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/CustomAnnotation/GetUserInfo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/ProtoType/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/ProtoType/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/ProtoType/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/ProtoType/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/ProtoType/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/ProtoType/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/ProtoType/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/ProtoType/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/BreakSingleTonMultiThreading/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Singleton/B_BreakSingleTonMultiThreading/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/BreakSingleTonReflection/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Singleton/C_BreakSingleTonReflection/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/BreakSinleTonUsingSerialization/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Singleton/E_BreakSinleTonUsingSerialization/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/ProtectAgainstReflection/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Singleton/D_ProtectAgainstReflection/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/ProtectAgainstSerialization/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Singleton/F_ProtectAgainstSerialization/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/SingletonWithMultiThreading/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Singleton/F_SingletonWithMultiThreading/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/SingletonWithoutMultiThreading/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Singleton/A_SingletonWithoutMultiThreading/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/UsingEnum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Singleton/G_UsingEnum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/UsingInnerClass/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_CreationalDesignPattern/Singleton/H_UsingInnerClass/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Adapter/AdapterParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Adapter/AdapterParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Adapter/NewParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Adapter/NewParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Adapter/OldParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Adapter/OldParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Adapter/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Adapter/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Adapter/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Adapter/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Bridge/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentGateways/CitiGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Bridge/PaymentGateways/CitiGateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentGateways/Gateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Bridge/PaymentGateways/Gateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentGateways/HSBCGateWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Bridge/PaymentGateways/HSBCGateWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentMethods/CardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Bridge/PaymentMethods/CardPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentMethods/NetBanking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Bridge/PaymentMethods/NetBanking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Bridge/PaymentMethods/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Bridge/PaymentMethods/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/Clinet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Composite/Clinet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/DiscJockey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Composite/DiscJockey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Composite/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/SongComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Composite/SongComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Composite/SongGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Composite/SongGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Decorator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/CompressionDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/DataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/DataSourceDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/EncryptionDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/FileDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Facade/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Facade/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Facade/Facade/HelperFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Facade/Facade/HelperFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Facade/Helper/MySqlHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Facade/Helper/MySqlHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Facade/Helper/OracleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Facade/Helper/OracleHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/FlyWeight/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/FlyWeight/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/FlyWeight/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/FlyWeight/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/FlyWeight/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/FlyWeight/VehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/FlyWeight/VehicleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StructuralDesignPattern/Proxy/ProxyPatternExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_StructuralDesignPattern/Proxy/ProxyPatternExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,77 +187,39 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Products" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/m0s0qyz/Learning/JavaDesignPattern/src/CreationalDesignPattern/AbstractFactory&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="CreationalDesignPattern.AbstractFactory.Problem" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory" />
+      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Products" />
+      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Solution" />
+      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/UsingEnum" />
+      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/UsingInnerClass" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Behavioral.ChainOfResponsibility" />
       <recent name="CustomAnnotation" />
       <recent name="CreationalDesignPattern.AbstractFactory" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Products" />
-      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Solution" />
-      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/UsingEnum" />
-      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/UsingInnerClass" />
-      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/SingleTonUsingInnerStaticClass" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Behavioral.TemplateMethod.Client" />
-      <module name="JavaDesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Behavioral.TemplateMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Behavioral.Iterator.Client" />
-      <module name="JavaDesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Behavioral.Iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Behavioral.Mediator.Client" />
-      <module name="JavaDesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Behavioral.Mediator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Behavioral.Momento.Client" />
+      <option name="MAIN_CLASS_NAME" value="B_StructuralDesignPattern.Decorator.Client" />
       <module name="JavaDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Behavioral.Momento.*" />
+          <option name="PATTERN" value="B_StructuralDesignPattern.Decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Behavioral.State.Demo" />
+    <configuration name="LLDQuestions.Logger.LoggerBasic.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLDQuestions.Logger.LoggerBasic.Solution" />
       <module name="JavaDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Behavioral.State.*" />
+          <option name="PATTERN" value="LLDQuestions.Logger.LoggerBasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +240,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalDesignPattern.AbstractFactoryMethod.Problem.Solution" />
+    <configuration name="LLDQuestions.Logger.LoggerSingletonFactoryAndInfoMethods.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLDQuestions.Logger.LoggerSingletonFactoryAndInfoMethods.Solution" />
       <module name="JavaDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalDesignPattern.AbstractFactoryMethod.Problem.*" />
+          <option name="PATTERN" value="LLDQuestions.Logger.LoggerSingletonFactoryAndInfoMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LLDQuestions.Logger.LoggerWithSingleTon.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLDQuestions.Logger.LoggerWithSingleTon.Solution" />
+      <module name="JavaDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LLDQuestions.Logger.LoggerWithSingleTon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LLDQuestions.Logger.LoggerWithSingletonWithFactoryMethod.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLDQuestions.Logger.LoggerWithSingletonWithFactoryMethod.Solution" />
+      <module name="JavaDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LLDQuestions.Logger.LoggerWithSingletonWithFactoryMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Client (4)" />
-        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.LLDQuestions.Logger.LoggerSingletonFactoryAndInfoMethods.Solution" />
+        <item itemvalue="Application.LLDQuestions.Logger.LoggerWithSingletonWithFactoryMethod.Solution" />
+        <item itemvalue="Application.LLDQuestions.Logger.LoggerWithSingleTon.Solution" />
+        <item itemvalue="Application.LLDQuestions.Logger.LoggerBasic.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +314,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -238,82 +328,16 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="564" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588180222758">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="564" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1588180222758" />
-    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1588452548156">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1588452548156" />
-    <state x="606" y="417" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588346017497">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="606" y="417" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1588346017497" />
-    <state x="606" y="438" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1588458366918">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="606" y="438" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1680.1050@0.0.1680.1050" timestamp="1588458366917" />
-    <state x="602" y="89" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587991088149">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="602" y="89" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587991088149" />
-    <state width="433" height="466" key="DebuggerActiveHint" timestamp="1587999740470">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="433" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1587999740470" />
-    <state width="1638" height="266" key="GridCell.Tab.0.bottom" timestamp="1588458458047">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588458458047" />
-    <state width="1638" height="266" key="GridCell.Tab.0.center" timestamp="1588458458046">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588458458046" />
-    <state width="1638" height="266" key="GridCell.Tab.0.left" timestamp="1588458458045">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588458458045" />
-    <state width="1638" height="266" key="GridCell.Tab.0.right" timestamp="1588458458047">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588458458047" />
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1588005178776">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588005178776" />
-    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1588005178775">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588005178775" />
-    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1588005178774">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588005178774" />
-    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1588005178775">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588005178775" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1587990596154">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1587990596154" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1587988742266">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587988742266" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StructuralDesignPattern/Decorator/Client.java</url>
+          <url>file://$PROJECT_DIR$/src/B_StructuralDesignPattern/Decorator/Client.java</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsibility/Multiplication.java</url>
+          <url>file://$PROJECT_DIR$/src/C_Behavioral/ChainOfResponsibility/Multiplication.java</url>
           <line>13</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>

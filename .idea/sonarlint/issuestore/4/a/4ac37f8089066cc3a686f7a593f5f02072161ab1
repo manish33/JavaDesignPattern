@@ -1,0 +1,18 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜é££þÿÿÿÿ
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÒÃ–úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò´¬Œùÿÿÿÿ
+k
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(˜é££þÿÿÿÿ
+j
+java:S2095 "OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾ÒÃ–úÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Í×­Áÿÿÿÿÿ
+`
+java:S2062"EMake this class "private" or elevate the visibility of "readResolve".(ŒÇ«Óüÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(ÒïŠÿøÿÿÿÿ
+C
+java:S1481"(Remove this unused "out" local variable.(ÊÃîôùÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ô¡³Œûÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(õ¡üÈ

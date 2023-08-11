@@ -1,0 +1,8 @@
+
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¡èË•
+W
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(ï‹‘ßüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á½éÊûÿÿÿÿ
+Z
+java:S2259"?A "NullPointerException" could be thrown; "p" is nullable here.(Ê×¾ìùÿÿÿÿ

@@ -1,0 +1,4 @@
+[WARNING] This is a warning message
+[WARNING] This is a warning message
+[WARNING] This is a warning message
+[WARNING] This is a warning message
