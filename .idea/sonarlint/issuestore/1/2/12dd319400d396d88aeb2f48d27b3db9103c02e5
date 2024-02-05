@@ -1,17 +1,0 @@
-
-E
-java:S3740"/Provide the parametrized type for this generic.(çš‘
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ïè™ùÿÿÿÿ
-]
-java:S2259,"GA "NullPointerException" could be thrown; "instance2" is nullable here.(õ¡üÈ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Í×­Áÿÿÿÿÿ
-Z
-java:S2147%"DCombine this catch with the one at line 35, which has the same body.(Å¡ß
-Z
-java:S2147'"DCombine this catch with the one at line 37, which has the same body.(åşáÿ
-B
-java:S3011",This accessibility update should be removed.(»ˆÊÀ
-K
-java:S1751 "5Remove this "break" statement or make it conditional.(›ûä·
-S	java:S106+"9Replace this use of System.out or System.err by a logger.(Ô¡³Œûÿÿÿÿ
-N	java:S106,"9Replace this use of System.out or System.err by a logger.(õ¡üÈ

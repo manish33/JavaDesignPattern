@@ -1,14 +1,0 @@
-
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜é££þÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÒÃ–úÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÛ„Š
-k
-java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(˜é££þÿÿÿÿ
-j
-java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾ÒÃ–úÿÿÿÿ
-S	java:S106
-"9Replace this use of System.out or System.err by a logger.(Í×­Áÿÿÿÿÿ
-C
-java:S1481"(Remove this unused "out" local variable.(ÊÃîôùÿÿÿÿ
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ô¡³Œûÿÿÿÿ
-N	java:S106""9Replace this use of System.out or System.err by a logger.(õ¡üÈ

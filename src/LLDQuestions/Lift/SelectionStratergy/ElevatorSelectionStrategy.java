@@ -7,12 +7,8 @@ import LLDQuestions.Lift.ElevatorSystem;
 
 import java.util.List;
 
-public class ElevatorSelectionStrategy {
-    protected List<ElevatorController> elevatorControllerList = ElevatorSystem.INSTANCE.getElevatorControllerList();
+ public interface ElevatorSelectionStrategy {
 
-
-    public ElevatorCar selectElevator(int floor, Direction dir) {
-        return null;
-    }
+    public ElevatorCar selectElevator(int floor, Direction dir);
 }
 

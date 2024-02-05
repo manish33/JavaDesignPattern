@@ -1,16 +1,19 @@
 package LLDQuestions.Lift.SelectionStratergy;
 
 import LLDQuestions.Lift.Direction;
+import LLDQuestions.Lift.ElevatorCar;
 import LLDQuestions.Lift.ElevatorController;
+import LLDQuestions.Lift.ElevatorSystem;
 import LLDQuestions.Lift.SelectionStratergy.ElevatorSelectionStrategy;
 
+import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class OddEvenStrategy extends ElevatorSelectionStrategy {
-
+public class OddEvenStrategy implements ElevatorSelectionStrategy {
 
     @Override
-    public int selectElevator(int floor, Direction dir) {
+    public ElevatorCar selectElevator(int floor, Direction dir) {
+        List<ElevatorController> elevatorControllerList = ElevatorSystem.INSTANCE.getElevatorControllerList();
         for(ElevatorController eController: elevatorControllerList)
         {
             //odd elevator for odd floors and even elevators for even floors
@@ -20,14 +23,14 @@ public class OddEvenStrategy extends ElevatorSelectionStrategy {
                 int currFloor= eController.getElevatorCar().getCurrentFloor();
                 Direction currDir= eController.getElevatorCar().getDir();
                 if(floor>currFloor && currDir==Direction.UP)
-                    return eController.getId();
+                    return eController.getElevatorCar();
                 else if(floor<currFloor && currDir==Direction.DOWN)
-                    return eController.getId();
+                    return eController.getElevatorCar();
                 else if(currDir==Direction.NONE)
-                    return eController.getId();
+                    return eController.getElevatorCar();
 
             }
         }
-        return ThreadLocalRandom.current().nextInt(1, elevatorControllerList.size());
+        return elevatorControllerList.get(ThreadLocalRandom.current().nextInt(1, elevatorControllerList.size())).getElevatorCar();
     }
 }
