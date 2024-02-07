@@ -5,224 +5,219 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aae1dae-76ca-4729-9d8f-2c7820b75b46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02dbad8e906e8f1ff5bf20328a861ae8f08f8e31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07dbe8cbc22a2ac113887c0e1efd0c50666de23e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/088dfb17813d9c0059217658d7f5467dc713e2c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08983d979a338330d757283b3885f4826141595c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09218c7b3297cedad927fb02c01f5ef32ed33495" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a0daa64336f1a18245becc5810cc9c1e8af030e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0ebc635322b7c7042be8af662fae6a47337c4a33" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f190e2c591fdd9172235a716730676c349dbeca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/105c2252dde9d47ad83975d37d3fa33b6999c8bb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/110f87d6cbce1a12c45770d0f536c3cfa749d1fe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11d8c70e715be356c0056a306ffe2f6857d5fd7a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12dd319400d396d88aeb2f48d27b3db9103c02e5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13a2860c605536e3312055e921e8014befbc8212" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/156836f1f672943730b3983dd816476dfe621e9a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/168d3996400a7c002884d4d40b9ca9b700655660" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/2236bf0cf8ff10616b1d5b63888541152ccd5272" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27569f5fce73e7f0ed4c5df77f638a49ba593f2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/281306b6c1888cf5049f78ff6b9eace198bf2bca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d0540c6ffeee53255dc62fced4d0c08aae13198" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2daf45ed9700ea98f80e81350b1fc927269334d8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2dcfbbae9d8544cb967e1565caf003d58b88a5c2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eb8c68336aeec977fdc0fc76532d853aa87eecb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f79dabad336aa3e3f9b5b41888bc3a61f86bb8f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37136583e346985721682ad3b31705bd81ec0877" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/3841803b5bf9df0de093d8cb1e4a0134774b7d2a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39c6dcd2c381e4dc37de629fd21746d78795211e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3ae26774999d1e996afca11a2e22ef0d34432555" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d05120d9db5f6b071c46804929b4ffb2cfc01f5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d9038dfd6b87e7c189fc06668bf6e13d3c673f7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e89c8f82b66de9a6f5c0aae2b5a21bc17840939" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3eafcad763ec85491d802f7bd5f98611878e290f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4051f2864fafced5bb3946886379eb440e29fe13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/4155484350fc9a5abe68af9bd48746e839de61fb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42d59b2630fee6dca96b97ad902f3c8c469e7e7e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/4495974fe9bb23612043f5456fcbb176c4366736" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/468ed4f2be5e5f13dd2dd966cfc71fe40349d42f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48a961632e2a717cba5a7a729ddaac73333e801a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4ac37f8089066cc3a686f7a593f5f02072161ab1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50e2897e3e87c573274e4e8e7518411a2e32c4be" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52144040c63e03d8d8fed701ac9afb4e7e503e7b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/553b804625e699c263f2d442432334db003a42cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/581ec7b545933651ba80fe2ccf31971539402275" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a8bc033c0af32eb8899d3b71501acb09ad2c4c6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cae9f90044f257be6e76d43b2481f05596584e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62556aedfc5d9e3f59d5bead5ee22f3e663f00b8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/646c5be060c58c2e596cbad428190867457b2177" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/657bc4db7aa60574adc7ff7b936f2863d83abb38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65dc18dab601a597f15a33f1af6f86485bbb8252" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/675fee161f4763bf7540898a7ca29bf8ce050223" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/698680a2c4830fac5eddb4143a43991cf0016ad9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6990c8f7a6664d510490d450700a9779a3501f15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b4c50c5813bb81ebfefebb0e1a600576f5fb5db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b65ee0f61b5fbf6028a858856ffc0fd128cb5c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/783db53292b2e417e6500ff8ec31172934974d81" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78a6671a8c6250a92eb5d77c080733d8e7122ee6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c90d285d5a12a78fc56a9acaf4b75687d1393d1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e07711f03e852cbc24df2d69f040cfde37e9ae5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e8042613bdf42d186ba4a724267e483bcc9f3d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80d37e86b614a2bd5af849e9765fbfd2174279c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85c12f2b80f459d330bdd7b7fd788b42490fdc6e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/895f23a260564a3ccb3859f5b7fc103f428c9d83" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c1087d0f26f65afd80f45e0fa8e5c78f3ef5e44" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cd15884a198694ab0eb44ca5fb201faa2da1373" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8de16e2835d17a737b8449a43663413cde1db8d0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e8c94a1788f1f348a8d648278f3c838f62558f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9707249d4fd33d3865f79ed7ea1c21362055750b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/97a78f8be8365fe1f79683efc09cceb747fc32a8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9ca33f3956e958e82d797020630e22ce1c74edda" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9ded98dae4fd21143766fad6b52cdf3dec1e2bd5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a53d83096a8d46c3bbeecef80b2ead778737d43d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5de02f4761b50c7efe2ad57164da5a754a1d2ae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6ec0b75a6221942a575f9a1871dbce5c20c2f20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9d02f7cab4c76562012841e8ee1d1dd0bfb230d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abe56bd480a822cbc72428fab42abc698b99adaf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acf55c2664aa1391ae910200fc7f204983374145" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af5db81158feec43f8b067015f5ab69bcbed80f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b017b1647a7ae0cc3e51b39b9536b0621a7510a8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b26556ffed4333d1965606ed8c62e4524c9fbae4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc75ea2d82d84b76d08dbfebd239f4aa6841b331" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdd7ec4b22b30e8752220727f47dd8a7e7efc3bd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c52458578eeee135d4b5edc17640e725b8c33aac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c676efab1dbb2720fdf3dc50455c693b9986e956" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c967368023dd2e7b9cfeec27941a045ebee68197" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc83c91219e03ba09be6e108ea865abc7040817a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdf48dddd82126c8462176ebee142f9f6b414994" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d976184ea21f4bfbdc4f8582b431fea59661356a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db933ecbdc24d52d410ac19ec9f743c2523e19ff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dda91bd599ecffdf7da3e18532d92f6a81c20674" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfbc70ae0d68e62e94142953610dba0b8df2659e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1ca9783d977d5016db53f4ec56a5ca22ff58029" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e28e8dbdea5a232697e31d2b14556a28c34a724d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3c805d53cd3bd57aabd692552635dffc9dcd71b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e53b5ac9077e5823e347640fa641af53c3f2e0e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5d3668ed133cbd920173563839863050c28bfed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e8ec109c535a2bc82397d4b1b387e8ae437536c0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec21024662a01c0c3f442a891392518350255223" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec8a4b6cc36d03d8314fc040b55f251ec49bcde4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4bc80628d827b551ed90f9ea4fb6993e4a434b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f7725693b1ee92380c831c1bbc1bc03b36c1ab29" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9e993ba758b8ff79145ac306186612f76d5b4e5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9f85eb89ac6961cd1277b12f66e282fc7b64ba0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb22a9ce4754c823c9f708a7a445446c4f6ce7b6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb33aff3ac667d1202e13d92aff0e12d73dd10b5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fcbd6856c65b7fad43c63e252975d5deb406fa17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/fff2a5b1e4e2b6f4c867e8538f9beed6c5ecce43" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLDQuestions/SplitWiseMachineCoding/ExpenseTypesClasses/ExactExpense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLDQuestions/SplitWiseMachineCoding/ExpenseTypesClasses/PercentExpense.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/2/02dbad8e906e8f1ff5bf20328a861ae8f08f8e31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/7/07dbe8cbc22a2ac113887c0e1efd0c50666de23e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/8/088dfb17813d9c0059217658d7f5467dc713e2c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/8/08983d979a338330d757283b3885f4826141595c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/9/09218c7b3297cedad927fb02c01f5ef32ed33495" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/a/0a0daa64336f1a18245becc5810cc9c1e8af030e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/e/0ebc635322b7c7042be8af662fae6a47337c4a33" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0f190e2c591fdd9172235a716730676c349dbeca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/0/105c2252dde9d47ad83975d37d3fa33b6999c8bb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/1/110f87d6cbce1a12c45770d0f536c3cfa749d1fe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/1/11d8c70e715be356c0056a306ffe2f6857d5fd7a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/2/12dd319400d396d88aeb2f48d27b3db9103c02e5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/3/13a2860c605536e3312055e921e8014befbc8212" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/5/156836f1f672943730b3983dd816476dfe621e9a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/6/168d3996400a7c002884d4d40b9ca9b700655660" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/2/2236bf0cf8ff10616b1d5b63888541152ccd5272" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/7/27569f5fce73e7f0ed4c5df77f638a49ba593f2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/8/281306b6c1888cf5049f78ff6b9eace198bf2bca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/d/2d0540c6ffeee53255dc62fced4d0c08aae13198" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/d/2daf45ed9700ea98f80e81350b1fc927269334d8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/d/2dcfbbae9d8544cb967e1565caf003d58b88a5c2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/e/2eb8c68336aeec977fdc0fc76532d853aa87eecb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/f/2f79dabad336aa3e3f9b5b41888bc3a61f86bb8f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/7/37136583e346985721682ad3b31705bd81ec0877" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/8/3841803b5bf9df0de093d8cb1e4a0134774b7d2a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/9/39c6dcd2c381e4dc37de629fd21746d78795211e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/a/3ae26774999d1e996afca11a2e22ef0d34432555" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/d/3d05120d9db5f6b071c46804929b4ffb2cfc01f5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/d/3d9038dfd6b87e7c189fc06668bf6e13d3c673f7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/e/3e89c8f82b66de9a6f5c0aae2b5a21bc17840939" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/e/3eafcad763ec85491d802f7bd5f98611878e290f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/0/4051f2864fafced5bb3946886379eb440e29fe13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/1/4155484350fc9a5abe68af9bd48746e839de61fb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/2/42d59b2630fee6dca96b97ad902f3c8c469e7e7e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/4495974fe9bb23612043f5456fcbb176c4366736" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/6/468ed4f2be5e5f13dd2dd966cfc71fe40349d42f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/8/48a961632e2a717cba5a7a729ddaac73333e801a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/a/4ac37f8089066cc3a686f7a593f5f02072161ab1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/0/50e2897e3e87c573274e4e8e7518411a2e32c4be" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/2/52144040c63e03d8d8fed701ac9afb4e7e503e7b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/5/553b804625e699c263f2d442432334db003a42cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/8/581ec7b545933651ba80fe2ccf31971539402275" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/a/5a8bc033c0af32eb8899d3b71501acb09ad2c4c6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/c/5cae9f90044f257be6e76d43b2481f05596584e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/2/62556aedfc5d9e3f59d5bead5ee22f3e663f00b8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/4/646c5be060c58c2e596cbad428190867457b2177" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/5/657bc4db7aa60574adc7ff7b936f2863d83abb38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/5/65dc18dab601a597f15a33f1af6f86485bbb8252" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/7/675fee161f4763bf7540898a7ca29bf8ce050223" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/9/698680a2c4830fac5eddb4143a43991cf0016ad9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/9/6990c8f7a6664d510490d450700a9779a3501f15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/b/6b4c50c5813bb81ebfefebb0e1a600576f5fb5db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/1/71b65ee0f61b5fbf6028a858856ffc0fd128cb5c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/8/783db53292b2e417e6500ff8ec31172934974d81" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/8/78a6671a8c6250a92eb5d77c080733d8e7122ee6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/c/7c90d285d5a12a78fc56a9acaf4b75687d1393d1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/e/7e07711f03e852cbc24df2d69f040cfde37e9ae5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/e/7e8042613bdf42d186ba4a724267e483bcc9f3d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/0/80d37e86b614a2bd5af849e9765fbfd2174279c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/5/85c12f2b80f459d330bdd7b7fd788b42490fdc6e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/9/895f23a260564a3ccb3859f5b7fc103f428c9d83" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/c/8c1087d0f26f65afd80f45e0fa8e5c78f3ef5e44" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/c/8cd15884a198694ab0eb44ca5fb201faa2da1373" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/d/8de16e2835d17a737b8449a43663413cde1db8d0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8e8c94a1788f1f348a8d648278f3c838f62558f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/7/9707249d4fd33d3865f79ed7ea1c21362055750b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/7/97a78f8be8365fe1f79683efc09cceb747fc32a8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/c/9ca33f3956e958e82d797020630e22ce1c74edda" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/d/9ded98dae4fd21143766fad6b52cdf3dec1e2bd5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a53d83096a8d46c3bbeecef80b2ead778737d43d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5de02f4761b50c7efe2ad57164da5a754a1d2ae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/6/a6ec0b75a6221942a575f9a1871dbce5c20c2f20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/9/a9d02f7cab4c76562012841e8ee1d1dd0bfb230d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/b/abe56bd480a822cbc72428fab42abc698b99adaf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/c/acf55c2664aa1391ae910200fc7f204983374145" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/f/af5db81158feec43f8b067015f5ab69bcbed80f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/0/b017b1647a7ae0cc3e51b39b9536b0621a7510a8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/2/b26556ffed4333d1965606ed8c62e4524c9fbae4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/c/bc75ea2d82d84b76d08dbfebd239f4aa6841b331" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/d/bdd7ec4b22b30e8752220727f47dd8a7e7efc3bd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/5/c52458578eeee135d4b5edc17640e725b8c33aac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/6/c676efab1dbb2720fdf3dc50455c693b9986e956" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/9/c967368023dd2e7b9cfeec27941a045ebee68197" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/c/cc83c91219e03ba09be6e108ea865abc7040817a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/d/cdf48dddd82126c8462176ebee142f9f6b414994" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/9/d976184ea21f4bfbdc4f8582b431fea59661356a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/db933ecbdc24d52d410ac19ec9f743c2523e19ff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/d/dda91bd599ecffdf7da3e18532d92f6a81c20674" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/f/dfbc70ae0d68e62e94142953610dba0b8df2659e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/1/e1ca9783d977d5016db53f4ec56a5ca22ff58029" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/2/e28e8dbdea5a232697e31d2b14556a28c34a724d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/3/e3c805d53cd3bd57aabd692552635dffc9dcd71b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/5/e53b5ac9077e5823e347640fa641af53c3f2e0e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/5/e5d3668ed133cbd920173563839863050c28bfed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/8/e8ec109c535a2bc82397d4b1b387e8ae437536c0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/c/ec21024662a01c0c3f442a891392518350255223" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/c/ec8a4b6cc36d03d8314fc040b55f251ec49bcde4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/4/f4bc80628d827b551ed90f9ea4fb6993e4a434b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/7/f7725693b1ee92380c831c1bbc1bc03b36c1ab29" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/9/f9e993ba758b8ff79145ac306186612f76d5b4e5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/9/f9f85eb89ac6961cd1277b12f66e282fc7b64ba0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/b/fb22a9ce4754c823c9f708a7a445446c4f6ce7b6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/b/fb33aff3ac667d1202e13d92aff0e12d73dd10b5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/c/fcbd6856c65b7fad43c63e252975d5deb406fa17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/f/fff2a5b1e4e2b6f4c867e8538f9beed6c5ecce43" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaDesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDesignPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLDQuestions/Lift/SelectionStratergy/ElevatorSelectionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDQuestions/Lift/SelectionStratergy/ElevatorSelectionStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLDQuestions/Lift/SelectionStratergy/OddEvenStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDQuestions/Lift/SelectionStratergy/OddEvenStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLDQuestions/Lift/SelectionStratergy/ZoneStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDQuestions/Lift/SelectionStratergy/ZoneStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Client/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Client/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Factories/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Factories/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Factories/MacFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Factories/MacFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Factories/WindowsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Factories/WindowsFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/HardWare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/HardWare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/MacHardware.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/MacHardware.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/MacOs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/MacOs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/OperatingSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/OperatingSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/WindowsHardware.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/WindowsHardware.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/WindowsOs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactory/Products/WindowsOs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/BatchProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/BatchProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/CsvParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/CsvParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/Records.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/Records.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/TextParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Problem/TextParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/BatchProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/BatchProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/CsvBatchProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/CsvBatchProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/CsvParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/CsvParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/Records.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/Records.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/TextBatchProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/TextBatchProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/TextParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/AbstractFactoryMethod/Solution/TextParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Builder/Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Builder/Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Builder/CarBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Builder/CarBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Builder/CarManualBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Builder/CarManualBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Client/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Client/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Director/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Director/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Car/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Manual/Manual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Manual/Manual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/GPSNavigator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/GPSNavigator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Transmission.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Transmission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/TripComputer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/TripComputer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/ComplexExample/Products/Parts/Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/SimpleExample/Computer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/SimpleExample/Computer$ComputerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/SimpleExample/Computer$ComputerBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/SimpleExample/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/SimpleExample/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/SimpleExample/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Builder/SimpleExample/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/CustomAnnotation/ApplyonMe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/CustomAnnotation/ApplyonMe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/CustomAnnotation/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/CustomAnnotation/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/CustomAnnotation/GetUserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/CustomAnnotation/GetUserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/CustomAnnotation/GetUserInfo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/CustomAnnotation/GetUserInfo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/ProtoType/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/ProtoType/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/ProtoType/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/ProtoType/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/ProtoType/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/ProtoType/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/ProtoType/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/ProtoType/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/A_SingletonWithoutMultiThreading/SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/A_SingletonWithoutMultiThreading/SingleTon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/A_SingletonWithoutMultiThreading/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/A_SingletonWithoutMultiThreading/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/B_BreakSingleTonMultiThreading/SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/B_BreakSingleTonMultiThreading/SingleTon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/B_BreakSingleTonMultiThreading/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/B_BreakSingleTonMultiThreading/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/C_BreakSingleTonReflection/SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/C_BreakSingleTonReflection/SingleTon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/C_BreakSingleTonReflection/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/C_BreakSingleTonReflection/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/D_ProtectAgainstReflection/SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/D_ProtectAgainstReflection/SingleTon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/D_ProtectAgainstReflection/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/D_ProtectAgainstReflection/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/E_BreakSinleTonUsingSerialization/SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/E_BreakSinleTonUsingSerialization/SingleTon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/E_BreakSinleTonUsingSerialization/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/E_BreakSinleTonUsingSerialization/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/F_ProtectAgainstSerialization/SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/F_ProtectAgainstSerialization/SingleTon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/F_ProtectAgainstSerialization/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/F_ProtectAgainstSerialization/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/F_SingletonWithMultiThreading/SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/F_SingletonWithMultiThreading/SingleTon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/F_SingletonWithMultiThreading/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/F_SingletonWithMultiThreading/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/G_UsingEnum/SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/G_UsingEnum/SingleTon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/G_UsingEnum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/G_UsingEnum/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/H_UsingInnerClass/SingleTon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/H_UsingInnerClass/SingleTon$Helperclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/H_UsingInnerClass/SingleTon$Helperclass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/H_UsingInnerClass/SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/H_UsingInnerClass/SingleTon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/H_UsingInnerClass/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/A_CreationalDesignPattern/Singleton/H_UsingInnerClass/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Adapter/AdapterParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Adapter/AdapterParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Adapter/NewParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Adapter/NewParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Adapter/OldParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Adapter/OldParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Adapter/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Adapter/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Adapter/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Adapter/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentGateways/CitiGateway.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentGateways/CitiGateway.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentGateways/Gateway.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentGateways/Gateway.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentGateways/HSBCGateWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentGateways/HSBCGateWay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentMethods/CardPayment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentMethods/CardPayment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentMethods/NetBanking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentMethods/NetBanking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentMethods/Payment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Bridge/PaymentMethods/Payment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Composite/Clinet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Composite/Clinet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Composite/DiscJockey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Composite/DiscJockey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Composite/Song.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Composite/Song.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Composite/SongComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Composite/SongComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Composite/SongGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Composite/SongGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/CompressionDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/CompressionDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/DataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/DataSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/DataSourceDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/DataSourceDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/EncryptionDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/EncryptionDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/FileDataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Decorator/FileDataSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Facade/HelperFacade$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Facade/HelperFacade$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Facade/HelperFacade$DBTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Facade/HelperFacade$DBTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Facade/HelperFacade$ReportTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Facade/HelperFacade$ReportTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Facade/HelperFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Facade/HelperFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Helper/MySqlHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Helper/MySqlHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Helper/OracleHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Facade/Helper/OracleHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/Bicycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/Truck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/VehicleFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/VehicleFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/VehicleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/FlyWeight/VehicleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Proxy/DatabaseExecuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Proxy/DatabaseExecuter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Proxy/DatabaseExecuterImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Proxy/DatabaseExecuterImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Proxy/DatabaseExecuterProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Proxy/DatabaseExecuterProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Proxy/ProxyPatternExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/B_StructuralDesignPattern/Proxy/ProxyPatternExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/Addition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/Addition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/Divison.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/Divison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/Multiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/Multiplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/SubStraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/ChainOfResponsibility/SubStraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/Iterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/IteratorContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/IteratorContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/NameRepository$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/NameRepository$NamedIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/NameRepository$NamedIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/NameRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Iterator/NameRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Mediator/ChatRoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Mediator/ChatRoom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Mediator/ChatUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Mediator/ChatUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Mediator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Mediator/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Mediator/Mediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Mediator/Mediator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Mediator/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Mediator/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Momento/CareTaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Momento/CareTaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Momento/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Momento/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Momento/Memento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Momento/Memento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Momento/Originator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Momento/Originator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Observer/Clinet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Observer/Clinet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Observer/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Observer/StockGrabber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Observer/StockGrabber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Observer/StockObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Observer/StockObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Observer/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Observer/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/CantFly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/CantFly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Flys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Flys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/ItFlys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/ItFlys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/CreditCardStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/CreditCardStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/PaymentStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/PaymentStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/PaypalStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/PaypalStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/ShoppingCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/ShoppingCartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy2/ShoppingCartTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/OperationAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/OperationAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/OperationMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/OperationMultiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/OperationSubstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/OperationSubstract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/Strategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/Strategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/StrategyPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/Staretergy/Stratergy3/StrategyPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/LockedState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/LockedState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/PlayingState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/PlayingState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/ReadyState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/ReadyState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/State/UI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/TemplateMethod/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/TemplateMethod/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/TemplateMethod/GlassHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/TemplateMethod/GlassHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/TemplateMethod/HouseTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/TemplateMethod/HouseTemplate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/TemplateMethod/WoodenHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/C_Behavioral/TemplateMethod/WoodenHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/ConsoleSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/ConsoleSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/FileSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/FileSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/LogLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/LogLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/LogSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/LogSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/Logger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerBasic/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/ConsoleLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/ConsoleLoggerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/ConsoleSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/ConsoleSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/FileLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/FileLoggerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/FileSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/FileSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/LogLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/LogLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/LogSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/LogSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/Logger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/LoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/LoggerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerSingletonFactoryAndInfoMethods/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/ConsoleLogSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/ConsoleLogSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/FileLogSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/FileLogSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/LogLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/LogLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/LogSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/LogSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/Logger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingleTon/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/ConsoleLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/ConsoleLoggerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/ConsoleSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/ConsoleSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/FileLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/FileLoggerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/FileSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/FileSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/LogLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/LogLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/LogSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/LogSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/Logger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/LoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/LoggerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/LoggerWithSingletonWithFactoryMethod/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/ConsoleLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/ConsoleLoggerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/ConsoleSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/ConsoleSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/FileLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/FileLoggerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/FileSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/FileSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LogAllStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LogAllStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LogLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LogLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LogLevelStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LogLevelStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LogSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LogSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LogWarningAndErrorStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LogWarningAndErrorStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/Logger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/LoggerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPattern/LLDQuestions/Logger/SingletonFactoryStratergy/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLDQuestions/ParkingLot/ParkingAttendant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDQuestions/ParkingLot/ParkingAttendant.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,27 +263,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/LLDQuestions/Lift" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="CreationalDesignPattern.AbstractFactory.Problem" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/LLDQuestions/Lift" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory" />
       <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Products" />
-      <recent name="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Solution" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/LLDQuestions/Lift" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="LLDQuestions.SplitWiseMachineCoding.Split" />
       <recent name="LLDQuestions.Lift.ControlStratergy" />
       <recent name="LLDQuestions.Lift.SelectionStratergy" />
     </key>
@@ -298,26 +294,13 @@
       <recent name="CreationalDesignPattern.AbstractFactory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B_StructuralDesignPattern.Decorator.Client" />
       <module name="JavaDesignPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="B_StructuralDesignPattern.Decorator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LLDQuestions.Logger.LoggerBasic.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LLDQuestions.Logger.LoggerBasic.Solution" />
-      <module name="JavaDesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LLDQuestions.Logger.LoggerBasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,12 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalDesignPattern.AbstractFactoryMethod.Solution.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_CreationalDesignPattern.Singleton.B_BreakSingleTonMultiThreading.Solution" />
       <module name="JavaDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalDesignPattern.AbstractFactoryMethod.Solution.*" />
+          <option name="PATTERN" value="A_CreationalDesignPattern.Singleton.B_BreakSingleTonMultiThreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,11 +362,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.LLDQuestions.Logger.LoggerSingletonFactoryAndInfoMethods.Solution" />
         <item itemvalue="Application.LLDQuestions.Logger.LoggerWithSingletonWithFactoryMethod.Solution" />
         <item itemvalue="Application.LLDQuestions.Logger.LoggerWithSingleTon.Solution" />
-        <item itemvalue="Application.LLDQuestions.Logger.LoggerBasic.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -413,6 +396,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -428,5 +422,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
