@@ -1,36 +1,56 @@
-package LLDQuestions.SplitWiseMachineCoding.Service;
+package LLDQuestions.SplitWiseMachineCoding.service;
 
-import LLDQuestions.SplitWiseMachineCoding.*;
-import LLDQuestions.SplitWiseMachineCoding.ExpenseTypesClasses.EqualExpense;
-import LLDQuestions.SplitWiseMachineCoding.ExpenseTypesClasses.ExactExpense;
-import LLDQuestions.SplitWiseMachineCoding.ExpenseTypesClasses.Expense;
-import LLDQuestions.SplitWiseMachineCoding.ExpenseTypesClasses.PercentExpense;
-import LLDQuestions.SplitWiseMachineCoding.Split.PercentSplit;
-import LLDQuestions.SplitWiseMachineCoding.Split.Split;
+import LLDQuestions.SplitWiseMachineCoding.exception.InvalidExpenseException;
+import LLDQuestions.SplitWiseMachineCoding.model.Expense;
+import LLDQuestions.SplitWiseMachineCoding.model.ExpenseMetadata;
+import LLDQuestions.SplitWiseMachineCoding.split.Split;
+import LLDQuestions.SplitWiseMachineCoding.split.SplitType;
+import LLDQuestions.SplitWiseMachineCoding.strategy.SplitStrategy;
+import LLDQuestions.SplitWiseMachineCoding.strategy.SplitStrategyFactory;
+import LLDQuestions.SplitWiseMachineCoding.repository.ExpenseRepository;
 
 import java.util.List;
+import java.util.UUID;
 
 public class ExpenseService {
-    public static Expense createExpense(ExpenseType expenseType, double amount, User paidBy, List<Split> splits, ExpenseMetadata expenseMetadata) {
-        switch (expenseType) {
-            case EXACT:
-                return new ExactExpense(amount, paidBy, splits, expenseMetadata);
-            case PERCENT:
-                for (Split split : splits) {
-                    PercentSplit percentSplit = (PercentSplit) split;
-                    split.setAmount((amount*percentSplit.getPercent())/100.0);
-                }
-                return new PercentExpense(amount, paidBy, splits, expenseMetadata);
-            case EQUAL:
-                int totalSplits = splits.size();
-                double splitAmount = ((double) Math.round(amount*100/totalSplits))/100.0;
-                for (Split split : splits) {
-                    split.setAmount(splitAmount);
-                }
-                splits.get(0).setAmount(splitAmount + (amount - splitAmount*totalSplits));
-                return new EqualExpense(amount, paidBy, splits, expenseMetadata);
-            default:
-                return null;
+    private final ExpenseRepository expenseRepository;
+    private final BalanceService balanceService;
+
+    public ExpenseService(ExpenseRepository expenseRepository, BalanceService balanceService) {
+        this.expenseRepository = expenseRepository;
+        this.balanceService = balanceService;
+    }
+
+    public Expense createExpense(double amount, String description, String paidByUserId,
+                                 List<String> participantIds, List<Double> values,
+                                 SplitType splitType, String groupId, ExpenseMetadata metadata) {
+
+        SplitStrategy strategy = SplitStrategyFactory.getStrategy(splitType);
+
+        if (!strategy.validate(amount, participantIds, values)) {
+            throw new InvalidExpenseException(
+                    "Invalid split for type " + splitType
+                    + ": amount=" + amount
+                    + ", participants=" + participantIds.size());
         }
+
+        List<Split> splits = strategy.split(amount, participantIds, values);
+
+        String expenseId = UUID.randomUUID().toString().substring(0, 8);
+        Expense expense = new Expense(expenseId, amount, description, paidByUserId,
+                splits, splitType, groupId, metadata);
+
+        expenseRepository.save(expense);
+        balanceService.recordExpense(paidByUserId, splits, groupId);
+
+        return expense;
+    }
+
+    public List<Expense> getExpensesByGroup(String groupId) {
+        return expenseRepository.findByGroup(groupId);
+    }
+
+    public List<Expense> getAllExpenses() {
+        return expenseRepository.findAll();
     }
 }

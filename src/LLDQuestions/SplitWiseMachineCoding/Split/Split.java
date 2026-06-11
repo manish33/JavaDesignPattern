@@ -1,28 +1,14 @@
-package LLDQuestions.SplitWiseMachineCoding.Split;
+package LLDQuestions.SplitWiseMachineCoding.split;
 
-import LLDQuestions.SplitWiseMachineCoding.User;
+public class Split {
+    private final String userId;
+    private final double amount;
 
-public abstract class Split {
-    private User user;
-    double amount;
-
-    public Split(User user) {
-        this.user = user;
-    }
-
-    public User getUser() {
-        return user;
-    }
-
-    public void setUser(User user) {
-        this.user = user;
-    }
-
-    public double getAmount() {
-        return amount;
-    }
-
-    public void setAmount(double amount) {
+    public Split(String userId, double amount) {
+        this.userId = userId;
         this.amount = amount;
     }
+
+    public String getUserId() { return userId; }
+    public double getAmount() { return amount; }
 }
